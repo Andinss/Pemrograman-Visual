@@ -33,7 +33,7 @@ public class MainController implements Initializable {
     private TableColumn<User, String> colUsername;
 
     @FXML
-    private TableView<User>  tblUsers;
+    private TableView<User> tblUsers;
     
     @FXML private Button btnAdd;
     @FXML private Button btnDelete;

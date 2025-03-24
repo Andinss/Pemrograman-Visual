@@ -13,7 +13,7 @@
       <AnchorPane prefHeight="400.0" prefWidth="300.0" BorderPane.alignment="CENTER">
          <children>
             <TextField fx:id="txtPassword" layoutX="76.0" layoutY="178.0" />
-            <TextField fx:id="txtUSername" layoutX="76.0" layoutY="119.0" AnchorPane.leftAnchor="76.0" AnchorPane.rightAnchor="75.0" />
+            <TextField fx:id="txtUsername" layoutX="76.0" layoutY="119.0" AnchorPane.leftAnchor="76.0" AnchorPane.rightAnchor="75.0" />
             <TextField fx:id="txtFullname" layoutX="76.0" layoutY="235.0" />
             <Label layoutX="76.0" layoutY="218.0" text="Fullname" />
             <Label layoutX="76.0" layoutY="161.0" text="Password" />

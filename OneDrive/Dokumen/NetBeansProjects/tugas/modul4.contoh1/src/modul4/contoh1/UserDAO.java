@@ -69,6 +69,7 @@ public static void addUser(User user) {
 
         stmt.close();
         koneksi.close();
+        
     } catch (SQLException e) {
         e.printStackTrace();
     }
